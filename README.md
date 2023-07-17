@@ -12,7 +12,12 @@ A website that sends reminders over email . It is created using ReactJS , NodeJS
 
 ## Screenshots
 
+### Login Page
 <img src='Screenshots/login.png' width='750'>
+
+### Signup Page
 <img src='Screenshots/signup.png' width='750'>
+
+### Main Page
 <img src='Screenshots/notify.png' width='750'>
 
