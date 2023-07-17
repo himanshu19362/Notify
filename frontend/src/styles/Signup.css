@@ -1,0 +1,37 @@
+.signup input {
+    display: block;
+    width: 100%;
+    font-size: 15px;
+    padding: 3px 6px;
+    margin-bottom: 12px;
+}
+
+.signup {
+    width: 350px;
+}
+
+.signup p {
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+.signup button {
+    padding: 8px 10px;
+    color: #fff;
+    background-color: rgb(31, 162, 243);
+    border: none;
+    border-radius: 8px;
+    font-weight :900;
+    font-size: 15px;
+    width: 100%;
+}
+
+.signup h1 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.password-strength {
+    margin-top: 0px;
+    margin-bottom: 5px;
+}

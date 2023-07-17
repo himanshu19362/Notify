@@ -1,0 +1,35 @@
+.data-input-form {
+    margin: 15px 0;
+}
+
+.data-input-form * {
+    margin-right: 10px;
+}
+
+.data-input-form > button {
+    padding: 5px 10px;
+    font-size: 14px;
+    color: #fff;
+    background-color: rgb(31, 162, 243);
+    font-weight: 900;
+    border: none;
+    border-radius: 8px;
+}
+
+.data-input-form p {
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+.data-input-form textarea {
+    width: 40%;
+    margin: 7px 0;
+    padding: 8px 12px;
+}
+
+.reminder-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    /* justify-content: space-around; */
+
+}

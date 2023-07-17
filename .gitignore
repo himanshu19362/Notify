@@ -1,0 +1,6 @@
+/frontend/node_modules
+/backend/ReminderService/node_modules
+/backend/EmailService/node_modules
+/frontend/.env
+/backend/ReminderService/.env
+/backend/EmailService/.env

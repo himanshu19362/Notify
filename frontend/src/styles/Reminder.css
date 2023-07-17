@@ -1,0 +1,28 @@
+.reminder {
+    margin: 10px 5px;
+    padding: 10px;
+    border: 2px solid #f4f4f4;
+    border-radius: 10px;
+    height: 150px;
+    position: relative;
+}
+
+.reminder * {
+    margin-bottom: 8px;
+}
+
+.reminder button {
+    position: absolute;
+    right: 20px;
+    bottom: 0;
+    background-color: red;
+    color: #fff;
+    font-weight: 700;
+    padding: 4px 8px;
+    border: none;
+    border-radius: 8px;
+}
+
+.reminder-time {
+    font-size: 13px;
+}
